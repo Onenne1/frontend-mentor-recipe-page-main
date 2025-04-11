@@ -71,3 +71,7 @@ CSS Custom Properties
 ## Author
 
 - Frontend Mentor - [Onenne1](https://www.frontendmentor.io/profile/onenne1)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 028fb5d2256c7427254310f93548cf7349a3e258
