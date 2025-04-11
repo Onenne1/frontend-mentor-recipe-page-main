@@ -71,5 +71,3 @@ CSS Custom Properties
 ## Author
 
 - Frontend Mentor - [Onenne1](https://www.frontendmentor.io/profile/onenne1)
-
-- This is what i used
